@@ -1,1 +1,2 @@
-# God-Shop2
+“# God Shop”
+“# JewelryShop”
